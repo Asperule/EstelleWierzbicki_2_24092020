@@ -1,4 +1,4 @@
-@media all and (max-device-width: 480px)
+@media all and (max-width: 480px)
 {
     body, aside, section, #bloc_page, #bloc_hebergements, #hebergements, #activites, #bloc_mars, header, #contenair
   {
